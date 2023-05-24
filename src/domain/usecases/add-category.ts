@@ -9,6 +9,6 @@ export namespace AddCategory {
         id: string,
         description: string,
     }
-    export type Result = CategoryModel
+    export type Result = boolean
 }
 
