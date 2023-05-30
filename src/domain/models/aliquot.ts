@@ -1,5 +1,5 @@
 export type AliquotModel = {
-    id : string 
+    id: string
     aliquot: number
 
 }
